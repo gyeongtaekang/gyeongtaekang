@@ -9,11 +9,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=gyeongtaekang&row=1&column=6&margin-w=15&no-bg=true" />
 </p>
 
-<div align="center">      
-    <a href="https://solved.ac/namwon420">
-        <img src="http://mazassumnida.wtf/api/generate_badge?boj=namwon420" alt="Solved.ac Profile"/>
-    </a>
+<div align="center">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namwon420" alt="Baekjoon Tier" />
 </div>
+
 
 ---
 
