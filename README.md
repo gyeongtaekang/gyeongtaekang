@@ -5,13 +5,10 @@
 
 </div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=gyeongtaekang&row=1&column=6&margin-w=15&no-bg=true" />
-</p>
-
 <div align="center">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namwon420" alt="Baekjoon Tier" />
+    <img src="https://yourgithubusercontent.com/path/to/tier_circle_dark.png" width="160">
 </div>
+
 
 
 ---
