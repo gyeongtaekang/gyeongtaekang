@@ -10,7 +10,7 @@ DGIST 컴퓨터공학과에서 공부하며
 - 🎓 Computer Engineering @ **DGIST**
 - 🧪 관심 분야: **AI / LLM / BCI / EEG Signal Processing**
 - 🛠️ 사용 언어: Python, JavaScript, TypeScript, C++, Kotlin
-- 🐦 취미: 메추리 사육, 연구 논문 읽기, 실험 자동화
+- 🐦 취미: 연구 논문 읽기, 실험 자동화
 
 ---
 
