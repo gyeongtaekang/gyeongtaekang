@@ -1,6 +1,7 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kang%20Gyeongtae&fontSize=55&fontColor=ffffff&fontAlign=80)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kang%20Gyeongtae&fontSize=52&fontColor=ffffff&fontAlign=55)
+
 
 </div>
 
