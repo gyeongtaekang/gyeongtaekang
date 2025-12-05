@@ -10,8 +10,9 @@
 </p>
 
 <div align="center">
-    <img src="https://yourgithubusercontent.com/path/to/tier_circle_dark.png" width="160">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=namwon420" alt="Baekjoon Tier" />
 </div>
+
 
 
 
