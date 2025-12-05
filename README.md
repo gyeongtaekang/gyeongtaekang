@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello! I'm Gyeongtae
 
-<!--
-**gyeongtaekang/gyeongtaekang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 Currently studying
+- Computer Engineering @ DGIST
+- AI, NLP, Brain-Computer Interface (EEG → Text)
 
-Here are some ideas to get you started:
+### 🧠 Baekjoon Progress
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=여기에_백준ID)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight)
+
+### 💻 Languages Used
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight)
