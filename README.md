@@ -1,74 +1,115 @@
-# 👋 Hi, I'm Gyeongtae (강경태)
-
-안녕하세요!  
-DGIST 컴퓨터공학과에서 공부하며  
-웹/앱 개발, 인공지능, EEG → Text 연구에 관심을 갖고 있는 개발자입니다.
-
----
-
-## 🧠 About Me
-- 🎓 Computer Engineering @ **DGIST**
-- 🧪 관심 분야: **AI / LLM / BCI / EEG Signal Processing**
-- 🛠️ 사용 언어: Python, JavaScript, TypeScript, C++, Kotlin
-- 🐦 취미: 연구 논문 읽기, 실험 자동화
-
----
-
-## 📈 GitHub Stats
-
 <div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=gyeongtaekang&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gyeongtaekang&layout=compact&theme=tokyonight&hide_border=true)
+  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Kang%20Gyeongtae&fontSize=55&fontColor=ffffff&fontAlign=80)
 
 </div>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=gyeongtaekang&row=1&column=6&margin-w=15&no-bg=true" />
+</p>
 
-
----
-
-## 🧩 Baekjoon / Solved.ac
-
-### 🔥 Solved.ac Profile (BOJ: **namwon420**)
-
-<div align="center">
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=namwon420)
-
+<div align="center">      
+    <a href="https://solved.ac/namwon420">
+        <img src="http://mazassumnida.wtf/api/generate_badge?boj=namwon420" alt="Solved.ac Profile"/>
+    </a>
 </div>
 
-- BOJ Profile: https://www.acmicpc.net/user/namwon420  
-- Solved.ac Profile: https://solved.ac/profile/namwon420
+---
+
+# 🧠 About Me
+
+AI & Neuroscience Researcher (EEG → Text · LLM Alignment)  
+DGIST Computer Engineering  
+
+저는 **뇌신호(EEG/MEG) 기반 언어 생성**,  
+**Multimodal AI**, **LLM Instruction-tuning**,  
+**Brain–Audio Latent Space Alignment** 연구에 집중하고 있습니다.
+
+또한 웹/앱 개발, 모델 경량화, 실험 자동화에 관심이 많으며  
+AI × Neuroscience 융합 연구를 진행하고 있습니다.
 
 ---
 
-## 📚 Notable Projects
+# 🧪 Research Topics
 
-### 🔹 **BrainECHO: EEG → Mel Spectrogram → Whisper-based Text Decoding**
-- Raw EEG/MEG 신호를 Mel Spectrogram으로 변환하고  
-  Whisper 기반 디코더로 자연어 텍스트 생성하는 프로젝트  
-- Latent Space Alignment + LLM-based Context 유도 실험 중  
-
-### 🔹 **Web/App Development**
-- React / Next.js / TypeScript 기반 웹 개발
-- Kotlin Android 앱 개발 경험
-
-### 🔹 **Research Automation Tools**
-- EEG 전처리 자동화 스크립트
-- 대규모 실험 로깅/관리 파이프라인 제작
+- 🧬 **EEG → Mel → Whisper 기반 Text Generation**
+- 🧠 **Brain–Audio/Brain–Language Latent Alignment**
+- 🛰 **LLM-based EEG Semantic Decoding**
+- 🛠 **Spatio-Temporal Neural Network for Brain Signals**
+- ⚡ **AI Automation · Research Pipeline Engineering**
+- 🌐 Multimodal Foundation Models
 
 ---
 
-## 🔗 Find Me
-- 📧 Email: gyeongtaekang@dgist.ac.kr  
-- 📝 Solved.ac: https://solved.ac/profile/namwon420  
-- 🐙 GitHub: https://github.com/gyeongtaekang
+# 🔧 Tech Stack
+
+| Category | Stack |
+|---------|-------|
+| **Languages** | Python · TypeScript · C++ · Kotlin · JavaScript |
+| **AI / ML** | PyTorch · HuggingFace · Whisper · CLIP · Conformer · EEG/BCI Toolkits |
+| **Signal Processing** | MNE · SciPy · Librosa |
+| **Backend / Infra** | FastAPI · Next.js · Docker · Linux |
+| **Tools** | Git · VSCode · Weights & Biases · Jupyter |
 
 ---
 
-## ✨ Quote
-> "연구와 개발 둘다 열심히 해보자"
+# 🏆 Awards & Honors
+
+### **Major Awards**
+| Award | Organization | Year |
+|-------|--------------|------|
+| 🥈 **호남권 창업아이디어 경진대회 우수상** | 호남권 소프트웨어중심사업단 | 2025.09 |
+| 🥇 **제3회 창업아이디어 경진대회 최우수상** | 전북대학교 | 2025.06 |
+| 🥇 **2학기 SW 캡스톤디자인 경진대회 대상** | 전북대학교 | 2024.12 |
+| 🥈 **내가 만드는 비교과 프로그램(2024-2) 우수상** | 전북대학교 | 2024.08 |
 
 ---
+
+### **Startup · Ideathon Awards**
+| Award | Organization | Year |
+|-------|--------------|------|
+| 🥇 **2024 창업아이디어 메이커톤 캠프 – 베스트아이디어상** | 전북대학교 | 2024.02 |
+| 🥇 **2023 창업 아이디어 메이커톤 캠프 – 베스트피칭상** | 전북대학교 | 2024.02 |
+| 🥇 **제1회 오픈소스 SW 아이디어 해커톤 캠프 최우수상** | 전북대학교 | 2023.12 |
+
+---
+
+### **Academic · Learning Competitions**
+| Award | Organization | Year |
+|-------|--------------|------|
+| 🥈 **2023 학습꿀팁 공모전 우수상** | 전북대학교 | 2024.01 |
+| 🥇 **AI 활용 학습 수기 공모전 최우수상** | 전북대학교 | 2024.01 |
+| 🥇 **나만의 학습노하우 공모전 최우수상** | 전북대학교 | 2024.01 |
+| 🥈 **비교과 프로그램 개발 공모전 우수상** | 전북대학교 | 2024.01 |
+| 🏅 **내가 만드는 비교과 프로그램 개발 공모전 입상** | 전북대학교 | 2024.01 |
+| 🥈 **전북지역 대학생 SDGs 프레젠테이션 대회 우수상** | 전북대학교 | 2023.12 |
+
+---
+
+# 📚 Academic Interests
+
+- Neural Decoding  
+- Brain-to-Text Translation  
+- Multimodal LLMs  
+- Representation Learning  
+- Brain-inspired AI  
+
+---
+
+# 📈 GitHub Activity
+
+[![Gyeongtae's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=gyeongtaekang&theme=react&bg_color=ffffff&color=454343)](https://github.com/yyoungl/github-readme-activity-graph)
+
+---
+
+# 🔗 Connect
+
+- 📧 **Email:** gyeongtaekang@dgist.ac.kr  
+- 🧠 **Research Interest:** Brain × AI × Language  
+- 🐙 **GitHub:** https://github.com/gyeongtaekang  
+- 📝 **Solved.ac:** https://solved.ac/namwon420  
+
+---
+
+> *“AI와 Neuroscience의 경계를 확장하는 연구자가 되기 위해 노력하고 있습니다.”*
 
